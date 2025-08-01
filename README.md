@@ -26,7 +26,7 @@ This interactive dashboard analyzes e-commerce sales data, offering insights int
 - `screenshots/`: Preview images
 
 ## 🖼️ Dashboard Preview
-(screenshots/dashboard-preview.png)
+https://github.com/ShreyaSarma21/Online-Sales-Dashboard/blob/main/dashboard-preview.png
 
 ## 📌 How to Run
 1. Download or clone the repo
